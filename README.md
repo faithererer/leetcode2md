@@ -1,7 +1,14 @@
 # leetcode2md
-将Leetcode题目转为markdown格式
-```
+## 功能:
+- 将Leetcode题目转为markdown格式
+## 使用
+[油猴安装地址](https://greasyfork.org/zh-CN/scripts/486822-leetcode%E9%A2%98%E7%9B%AE%E8%BD%ACmarkdown)
 
+## 截图:
+- 原题目
+![](./img/a.jpg)
+- 转化后:
+```
 # 2. 两数相加
 给你两个 **非空** 的链表，表示两个非负的整数。它们每位数字都是按照 **逆序** 的方式存储的，并且每个节点只能存储 **一位** 数字。
 
@@ -40,5 +47,4 @@
 - 每个链表中的节点数在范围 `[1, 100]` 内
 - `0 &lt;= Node.val &lt;= 9`
 - 题目数据保证列表表示的数字不含前导零
-
-```
+```z
