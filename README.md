@@ -5,8 +5,10 @@
 [油猴安装地址](https://greasyfork.org/zh-CN/scripts/486822-leetcode%E9%A2%98%E7%9B%AE%E8%BD%ACmarkdown)
 
 ## 截图:
-- 原题目
+- 原题目:
+- 
 ![](./img/a.jpg)
+
 - 转化后:
 ```
     # 2. 两数相加
